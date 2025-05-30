@@ -5,4 +5,5 @@
 -->
 <config>
     <overlay package="net.pixelos.certifiedprops.overlay" enabled="true" />
+    <overlay package="net.pixelos.keybox.overlay" enabled="true" />
 </config>
